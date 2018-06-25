@@ -1,2 +1,2 @@
 # hello-world
-Teste
+Começando a conhecer o GitHub.
